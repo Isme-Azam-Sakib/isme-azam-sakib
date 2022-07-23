@@ -13,7 +13,9 @@ Skills: HTML / CSS / JS / WordPress
 - 😄 Pronouns: He 
 
 ## Get in touch
-[<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/facebook%20logo.png" alt='facebook' height='40' tet-align="center>](https://www.facebook.com/k)
+[<img src='https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/facebook%20logo.png' alt='facebook' height='40'>](https://www.facebook.com/raliegh.wilson.7)
+[<img src='https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/twt.png' alt='twitter' height='40'>](https://twitter.com/sakib220916)
+[<img src='https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/mail.png' alt='mail' height='40'>](<a href="mailto:ralieghwilson@gmail.com">ralieghwilson@gmail.com</a>)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isme-azam-sakib)](https://github.com/anuraghazra/github-readme-stats)
