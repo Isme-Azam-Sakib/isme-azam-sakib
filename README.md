@@ -22,6 +22,6 @@ Skills: HTML / CSS / JS / WordPress
 
 ## Some of my work
 
-<a href="https://isme-azam-sakib.github.io/gymnasim/"><img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/gymnasium.jpg" width="30%"/></a>
+<a href="https://isme-azam-sakib.github.io/gymnasim/"><img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/gymnassium.jpg" width="30%"/></a>
 <a href="https://isme-azam-sakib.github.io/appon/"><img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/appon.png" width="30%"/></a>
 <a href="https://isme-azam-sakib.github.io/activebox/"><img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/activebox.jpg" width="30%"/></a>
