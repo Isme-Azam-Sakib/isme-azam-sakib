@@ -1,6 +1,6 @@
 ![](https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/banner-04.jpg)
 
-### Hi there 👋, I am Sakib 
+## Hi there 👋, I am Sakib 
 I am Isme Azam Sakib. I am student at BUBT university and CSE as my major . I am a certified web designer and I have interest in other creative works like UI/UX design, Graphics design as well.
 
 
@@ -11,6 +11,9 @@ Skills: HTML / CSS / JS / WordPress
 - 🌱 I’m currently learning C++ 
 - 📫 How to reach me: ralieghwsilson@gmail.com 
 - 😄 Pronouns: He 
+
+## Get in touch
+[<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/facebook%20logo.png" alt='facebook' height='40' tet-align="center>](https://www.facebook.com/k)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isme-azam-sakib)](https://github.com/anuraghazra/github-readme-stats)
