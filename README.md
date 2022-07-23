@@ -1,16 +1,19 @@
 ### Hi there 👋
+## Hey
 
-<!--
-**Isme-Azam-Sakib/isme-azam-sakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+name: Greetings
 
-Here are some ideas to get you started:
+on: [pull_request_target, issues]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: "Message that will be displayed on users' first issue"
+        pr-message: "Message that will be displayed on users' first pull request"
