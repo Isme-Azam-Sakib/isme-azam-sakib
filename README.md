@@ -20,5 +20,10 @@ Skills: HTML / CSS / JS / WordPress
 ![Profile views](https://gpvc.arturio.dev/isme-azam-sakib)  
 
 
-### Some of my work
-<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/gymnassium.jpg" width="50%"/><img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/gymnassium.jpg" width="50%"/>
+## Some of my work
+<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/gymnassium.jpg" width="33%"/>
+<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/appon.png" width="33%"/>
+<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/activebox.jpg" width="33%"/>
+<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/uitbd.jpg" width="33%"/>
+<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/texnet.jpg" width="33%"/>
+<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/beatles.jpg" width="33%"/>
