@@ -14,8 +14,8 @@ Skills: HTML / CSS / JS / WordPress
 
 ## Get in touch
 [<img src='https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/facebook%20logo.png' alt='facebook' height='40'>](https://www.facebook.com/raliegh.wilson.7)
-[<img src='https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/twt.png' alt='twitter' height='40'>](https://twitter.com/sakib220916)
-[<img src='https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/mail.png' alt='mail' height='40'>](<a href="mailto:ralieghwilson@gmail.com">ralieghwilson@gmail.com</a>)
+[<img src='https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/twt.png' alt='twitter' height='45'>](https://twitter.com/sakib220916)
+[<img src='https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/reddit.png' alt='reddit' height='40'>](https://www.reddit.com/user/EmergencyHoneydew9)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isme-azam-sakib)](https://github.com/anuraghazra/github-readme-stats)
