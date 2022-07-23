@@ -35,10 +35,3 @@ Skills: HTML / CSS / JS / WordPress
             </div>
           </div>
           
-          
-<a href="https://isme-azam-sakib.github.io/gymnasim/"><img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/gymnassium.jpg" width="33%"/></a>
-<a href="https://isme-azam-sakib.github.io/appon/"><img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/appon.png" width="34%"/></a>
-<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/activebox.jpg" width="33%"/>
-<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/uitbd.jpg" width="33%"/>
-<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/texnet.jpg" width="34%"/>
-<img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/beatles.jpg" width="33%"/>
