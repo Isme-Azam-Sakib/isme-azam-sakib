@@ -1,10 +1,8 @@
 <p align="center">
   <img wdith="35%" src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/animation_500_l5xm2htm.gif">
-</p>
-
-<p align="center">
   <img src="[https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/animation_500_l5xm2htm.gif](https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/banner-04.jpg)">
 </p>
+
 
 ## Hi there 👋, I am Sakib 
 I am Isme Azam Sakib. I am student at BUBT university and CSE as my major . I am a certified web designer and I have interest in other creative works like UI/UX design, Graphics design as well.
