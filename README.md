@@ -1,4 +1,6 @@
-![](https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/animation_500_l5xm2htm.gif)
+<p align="center">
+  <img wdith="35%" src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/animation_500_l5xm2htm.gif">
+</p>
 ![](https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/banner-04.jpg)
 
 ## Hi there 👋, I am Sakib 
