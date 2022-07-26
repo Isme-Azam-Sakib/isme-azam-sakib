@@ -7,9 +7,6 @@
 ## Hi there 👋, I am Sakib 
 I am Isme Azam Sakib. I am student at BUBT university and CSE as my major . I am a certified web designer and I have interest in other creative works like UI/UX design, Graphics design as well.
 
-
-
-
 Skills: HTML / CSS / JS / WordPress
 
 - 🌱 I’m currently learning C++ 
