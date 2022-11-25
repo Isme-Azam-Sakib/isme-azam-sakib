@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/animation_300_l5xm2htm.gif">
-  <img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/banner-04.jpg">
+  <img src="https://github.com/Isme-Azam-Sakib/isme-azam-sakib/blob/main/banner-02.jpg">
 </p>
 
 
