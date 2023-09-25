@@ -10,7 +10,7 @@ I am Isme Azam Sakib. I am student at BUBT university and CSE as my major . I am
 Skills: HTML / CSS / JS / WordPress
 
 - 🌱 I’m currently learning C++ 
-- 📫 How to reach me: ralieghwsilson@gmail.com 
+- 📫 How to reach me: ralieghwilson@gmail.com 
 - 😄 Pronouns: He 
 
 ## Get in touch
@@ -21,9 +21,7 @@ Skills: HTML / CSS / JS / WordPress
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isme-azam-sakib)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=isme-azam-sakib)  
 
-![Profile views](https://gpvc.arturio.dev/isme-azam-sakib)  
 
 
 ## Some of my work
